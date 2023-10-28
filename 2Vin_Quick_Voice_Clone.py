@@ -1,6 +1,6 @@
 import os
 import pygame
-from TTS.api import TTS ## THIS WILL LOOK LIKE ITS ERRORED. ITS NOT. ITS LYING.
+from TTS.api import TTS ## In my editor, I'm noob, and it says it can't import, but it works fine. 
 # Make sure you're in the environment you installled TTS in. rrrrrRRRRRRREEEEEEEEEEEEEEE.
 # This python spell scroll contains annotations of the magics and its inner workings. Be wise, be well.
 # EXTREEEEEEEEEEEME!
